@@ -1,0 +1,226 @@
+topic,used
+array utilities,false
+string manipulation helpers,false
+date and time utilities,false
+mathematical functions,false
+custom event emitter,false
+HTTP request wrapper,false
+file parser utility,false
+color manipulation functions,false
+localStorage manager,false
+browser feature detector,false
+data validation schema,false
+JWT token utilities,false
+custom React hook,false
+task scheduler,false
+debounce and throttle functions,false
+keyboard shortcut handler,false
+object deep merge utility,false
+websocket client wrapper,false
+form validation helper,false
+URL query parameter manager,false
+clipboard manager,false
+image compression utility,false
+CSV to JSON converter,false
+JSON to CSV converter,false
+data pagination helper,false
+API retry handler,false
+custom error class,false
+DOM element animation helper,false
+SVG icon generator,false
+theme switcher,false
+state management utility,false
+memoization function,false
+cache manager,false
+promise queue,false
+async retry logic,false
+deep clone function,false
+environment variable loader,false
+file upload helper,false
+HTTP response interceptor,false
+custom logger,false
+request timeout wrapper,false
+event bus,false
+data encryption and decryption,false
+password strength checker,false
+regex-based string cleaner,false
+UUID generator,false
+token expiration checker,false
+custom date formatter,false
+number formatter,false
+data sorting utility,false
+graph data structure,false
+linked list implementation,false
+stack and queue classes,false
+binary tree traversal,false
+merge sort algorithm,false
+quick sort algorithm,false
+binary search algorithm,false
+fibonacci sequence generator,false
+prime number checker,false
+matrix multiplication,false
+geolocation helper,false
+browser notification manager,false
+service worker registration,false
+indexedDB manager,false
+push notification helper,false
+web worker manager,false
+file downloader,false
+drag and drop utility,false
+infinite scroll handler,false
+lazy loading image component,false
+intersection observer utility,false
+virtualized list renderer,false
+clipboard event handler,false
+mouse movement tracker,false
+keyboard input listener,false
+custom scroll progress bar,false
+animation frame scheduler,false
+gesture detection helper,false
+password generator,false
+QR code generator,false
+barcode generator,false
+markdown parser,false
+text diff checker,false
+spell checker,false
+auto-suggestion input,false
+syntax highlighter,false
+code formatter,false
+file system simulator,false
+package version checker,false
+dependency graph generator,false
+unit testing mock utility,false
+test data generator,false
+API schema validator,false
+OpenAPI spec parser,false
+GraphQL client,false
+REST API client,false
+file watcher,false
+configuration loader,false
+dotenv manager,false
+process signal handler,false
+child process wrapper,false
+OS information utility,false
+memory usage tracker,false
+CPU usage monitor,false
+file compression utility,false
+zip and unzip utility,false
+checksum generator,false
+hashing utility,false
+JWT authentication middleware,false
+Express.js route guard,false
+NestJS custom decorator,false
+Next.js API route helper,false
+React context manager,false
+React reducer helper,false
+React suspense example,false
+React concurrent rendering,false
+React form input hook,false
+React toast notification,false
+React modal manager,false
+React global state hook,false
+React pagination hook,false
+React file uploader,false
+React image cropper,false
+React data grid,false
+React table sorting,false
+React animation hook,false
+React scroll hook,false
+React dark mode toggle,false
+React infinite scroll,false
+React autocomplete,false
+React chat component,false
+React markdown viewer,false
+React chart hook,false
+React WebSocket hook,false
+React notification center,false
+React context-based auth,false
+React router guard,false
+React useLocalStorage hook,false
+React useFetch hook,false
+React useClipboard hook,false
+React theme context,false
+React useDebounce hook,false
+React useThrottle hook,false
+React timer hook,false
+React countdown hook,false
+React stepper component,false
+React progress bar,false
+React drag and drop,false
+React sortable list,false
+React search filter,false
+React emoji picker,false
+React text editor,false
+React kanban board,false
+React dashboard widget,false
+React authentication form,false
+React registration form,false
+React password reset,false
+React avatar uploader,false
+React comment system,false
+React like button,false
+React follow/unfollow logic,false
+React notification popup,false
+React message bubble,false
+React sidebar menu,false
+React top navigation bar,false
+React user profile component,false
+React analytics chart,false
+React table export to CSV,false
+React data visualization,false
+React radar chart,false
+React donut chart,false
+React task tracker,false
+React goal tracker,false
+React timeline component,false
+React heatmap,false
+React AI chatbot,false
+React note taking app,false
+React todo list,false
+React expense tracker,false
+React calendar component,false
+React weather widget,false
+React clock widget,false
+React file explorer,false
+React folder tree,false
+React PDF viewer,false
+React video player,false
+React audio player,false
+React image gallery,false
+React carousel,false
+React screenshot tool,false
+React AI summarizer,false
+React markdown note editor,false
+React collaborative whiteboard,false
+React mindmap,false
+React kanban workflow,false
+React realtime collaboration,false
+React data sync with Firebase,false
+React push notification,false
+React offline storage,false
+React AI translator,false
+React news feed,false
+React dashboard analytics,false
+React admin panel,false
+React project management tool,false
+React team chat,false
+React CRM dashboard,false
+React form builder,false
+React email composer,false
+React calendar sync,false
+React voice recognition,false
+React video call component,false
+React game leaderboard,false
+React authentication dashboard,false
+React e-commerce cart,false
+React product gallery,false
+React checkout form,false
+React payment integration,false
+React invoice generator,false
+React order tracker,false
+React user analytics,false
+React inventory dashboard,false
+React blog CMS,false
+React landing page,false
+React portfolio,false
+React resume builder,false
