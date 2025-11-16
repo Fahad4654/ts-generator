@@ -1,226 +1,429 @@
 topic,used
-array utilities,False
-string manipulation helpers,False
+array utilities,True
+string manipulation helpers,True
 date and time utilities,False
-mathematical functions,False
-custom event emitter,False
+mathematical functions,True
+custom event emitter,True
 HTTP request wrapper,False
-file parser utility,False
+file parser utility,True
 color manipulation functions,False
 localStorage manager,False
-browser feature detector,False
+browser feature detector,True
 data validation schema,False
-JWT token utilities,False
-custom React hook,False
+JWT token utilities,True
+custom React hook,True
 task scheduler,False
 debounce and throttle functions,False
-keyboard shortcut handler,False
+keyboard shortcut handler,True
 object deep merge utility,False
-websocket client wrapper,False
+websocket client wrapper,True
 form validation helper,False
-URL query parameter manager,False
+URL query parameter manager,True
 clipboard manager,False
-image compression utility,False
-CSV to JSON converter,False
-JSON to CSV converter,False
-data pagination helper,False
+image compression utility,True
+CSV to JSON converter,True
+JSON to CSV converter,True
+data pagination helper,True
 API retry handler,False
-custom error class,False
-DOM element animation helper,False
-SVG icon generator,False
+custom error class,True
+DOM element animation helper,True
+SVG icon generator,True
 theme switcher,False
-state management utility,False
-memoization function,False
-cache manager,False
+state management utility,True
+memoization function,True
+cache manager,True
 promise queue,True
-async retry logic,False
+async retry logic,True
 deep clone function,False
 environment variable loader,False
 file upload helper,False
-HTTP response interceptor,False
+HTTP response interceptor,True
 custom logger,False
-request timeout wrapper,False
-event bus,False
-data encryption and decryption,False
-password strength checker,False
+request timeout wrapper,True
+event bus,True
+data encryption and decryption,True
+password strength checker,True
 regex-based string cleaner,False
 UUID generator,False
 token expiration checker,False
-custom date formatter,False
+custom date formatter,True
 number formatter,False
-data sorting utility,False
-graph data structure,False
+data sorting utility,True
+graph data structure,True
 linked list implementation,False
 stack and queue classes,False
-binary tree traversal,False
-merge sort algorithm,False
-quick sort algorithm,False
+binary tree traversal,True
+merge sort algorithm,True
+quick sort algorithm,True
 binary search algorithm,False
-fibonacci sequence generator,False
+fibonacci sequence generator,True
 prime number checker,False
 matrix multiplication,False
 geolocation helper,False
 browser notification manager,False
-service worker registration,False
-indexedDB manager,False
-push notification helper,False
+service worker registration,True
+indexedDB manager,True
+push notification helper,True
 web worker manager,False
 file downloader,False
-drag and drop utility,False
-infinite scroll handler,False
-lazy loading image component,False
+drag and drop utility,True
+infinite scroll handler,True
+lazy loading image component,True
 intersection observer utility,False
-virtualized list renderer,False
+virtualized list renderer,True
 clipboard event handler,False
 mouse movement tracker,False
-keyboard input listener,False
-custom scroll progress bar,False
-animation frame scheduler,False
-gesture detection helper,False
+keyboard input listener,True
+custom scroll progress bar,True
+animation frame scheduler,True
+gesture detection helper,True
 password generator,False
-QR code generator,False
+QR code generator,True
 barcode generator,False
-markdown parser,False
-text diff checker,False
-spell checker,False
-auto-suggestion input,False
-syntax highlighter,False
-code formatter,False
+markdown parser,True
+text diff checker,True
+spell checker,True
+auto-suggestion input,True
+syntax highlighter,True
+code formatter,True
 file system simulator,True
-package version checker,False
+package version checker,True
 dependency graph generator,False
 unit testing mock utility,False
-test data generator,False
+test data generator,True
 API schema validator,False
-OpenAPI spec parser,False
+OpenAPI spec parser,True
 GraphQL client,False
-REST API client,False
+REST API client,True
 file watcher,False
 configuration loader,False
-dotenv manager,False
-process signal handler,False
-child process wrapper,False
+dotenv manager,True
+process signal handler,True
+child process wrapper,True
 OS information utility,False
 memory usage tracker,False
 CPU usage monitor,False
-file compression utility,False
+file compression utility,True
 zip and unzip utility,False
-checksum generator,False
-hashing utility,False
-JWT authentication middleware,False
+checksum generator,True
+hashing utility,True
+JWT authentication middleware,True
 Express.js route guard,False
-NestJS custom decorator,False
-Next.js API route helper,False
-React context manager,False
+NestJS custom decorator,True
+Next.js API route helper,True
+React context manager,True
 React reducer helper,False
 React suspense example,False
-React concurrent rendering,False
+React concurrent rendering,True
 React form input hook,False
 React toast notification,False
-React modal manager,False
+React modal manager,True
 React global state hook,False
 React pagination hook,False
 React file uploader,False
 React image cropper,False
-React data grid,False
-React table sorting,False
+React data grid,True
+React table sorting,True
 React animation hook,False
 React scroll hook,False
 React dark mode toggle,False
-React infinite scroll,False
-React autocomplete,False
+React infinite scroll,True
+React autocomplete,True
 React chat component,False
 React markdown viewer,False
 React chart hook,False
-React WebSocket hook,False
+React WebSocket hook,True
 React notification center,False
 React context-based auth,True
-React router guard,False
+React router guard,True
 React useLocalStorage hook,False
-React useFetch hook,False
-React useClipboard hook,False
+React useFetch hook,True
+React useClipboard hook,True
 React theme context,False
-React useDebounce hook,False
+React useDebounce hook,True
 React useThrottle hook,False
-React timer hook,False
-React countdown hook,False
-React stepper component,False
+React timer hook,True
+React countdown hook,True
+React stepper component,True
 React progress bar,False
-React drag and drop,False
+React drag and drop,True
 React sortable list,False
-React search filter,False
+React search filter,True
 React emoji picker,False
 React text editor,False
 React kanban board,False
-React dashboard widget,False
-React authentication form,False
-React registration form,False
+React dashboard widget,True
+React authentication form,True
+React registration form,True
 React password reset,False
-React avatar uploader,False
-React comment system,False
-React like button,False
-React follow/unfollow logic,False
+React avatar uploader,True
+React comment system,True
+React like button,True
+React follow/unfollow logic,True
 React notification popup,True
-React message bubble,False
+React message bubble,True
 React sidebar menu,False
 React top navigation bar,False
-React user profile component,False
+React user profile component,True
 React analytics chart,False
-React table export to CSV,False
-React data visualization,False
-React radar chart,False
+React table export to CSV,True
+React data visualization,True
+React radar chart,True
 React donut chart,False
 React task tracker,False
 React goal tracker,False
-React timeline component,False
-React heatmap,False
+React timeline component,True
+React heatmap,True
 React AI chatbot,False
-React note taking app,False
+React note taking app,True
 React todo list,False
-React expense tracker,False
-React calendar component,False
+React expense tracker,True
+React calendar component,True
 React weather widget,False
-React clock widget,False
+React clock widget,True
 React file explorer,False
-React folder tree,False
-React PDF viewer,False
-React video player,False
+React folder tree,True
+React PDF viewer,True
+React video player,True
 React audio player,False
 React image gallery,False
-React carousel,False
-React screenshot tool,False
+React carousel,True
+React screenshot tool,True
 React AI summarizer,False
 React markdown note editor,True
-React collaborative whiteboard,False
-React mindmap,False
+React collaborative whiteboard,True
+React mindmap,True
 React kanban workflow,False
-React realtime collaboration,False
+React realtime collaboration,True
 React data sync with Firebase,False
 React push notification,False
 React offline storage,False
 React AI translator,False
 React news feed,False
-React dashboard analytics,False
-React admin panel,False
+React dashboard analytics,True
+React admin panel,True
 React project management tool,False
-React team chat,False
+React team chat,True
 React CRM dashboard,False
-React form builder,False
+React form builder,True
 React email composer,False
-React calendar sync,False
+React calendar sync,True
 React voice recognition,False
 React video call component,False
-React game leaderboard,False
-React authentication dashboard,False
-React e-commerce cart,False
-React product gallery,False
+React game leaderboard,True
+React authentication dashboard,True
+React e-commerce cart,True
+React product gallery,True
 React checkout form,False
 React payment integration,False
-React invoice generator,False
-React order tracker,False
+React invoice generator,True
+React order tracker,True
 React user analytics,False
 React inventory dashboard,False
-React blog CMS,False
-React landing page,False
-React portfolio,False
-React resume builder,False
+React blog CMS,True
+React landing page,True
+React portfolio,True
+React resume builder,True
+API request handler utilities,False
+WebSocket connection manager,False
+GraphQL schema builder,False
+CSV to JSON converter,False
+JWT authentication middleware,True
+File upload handler,False
+Custom logging decorator,False
+In-memory cache manager,False
+Rate limiter for HTTP requests,False
+Password strength validator,False
+Color palette generator,False
+Dynamic form validation library,False
+Simple routing system,False
+Custom markdown renderer,False
+Clipboard interaction helper,False
+Web scraping helper functions,False
+PDF generation service,False
+Unit conversion utilities,False
+Email validation utilities,False
+HTML sanitizer functions,False
+Environment variable loader,False
+Notification scheduler,False
+Chat message formatter,False
+Pagination helper utilities,False
+Slug generator,False
+Random emoji picker,False
+Custom error handler,False
+CSV report generator,False
+Session management utility,False
+Promise queue manager,False
+Automatic retry handler,False
+JWT token refresher,False
+Command line parser,False
+Configuration file parser,False
+Event bus implementation,False
+Task scheduler service,False
+Geo-location utilities,False
+Temperature conversion library,False
+HTML template renderer,False
+URL shortener utility,False
+Currency formatting helper,False
+XML parser and builder,False
+AI prompt formatter,False
+Text summarization helper,False
+Base64 encoder/decoder,False
+Data deduplication script,False
+Object difference calculator,False
+File system watcher,False
+Keyboard shortcut manager,False
+Dynamic import manager,False
+Request timeout controller,False
+Process monitoring tool,False
+Dependency injection container,False
+SQL query builder,False
+Custom data serializer,False
+Async job queue system,False
+Cookie management utility,False
+Local storage manager,False
+Date range picker helper,False
+File compression utility,False
+Object-to-Map converter,False
+Math expression evaluator,True
+API endpoint tester,False
+Dynamic script loader,False
+MIME type detector,False
+System uptime tracker,False
+Clipboard data transformer,False
+Browser fingerprint generator,False
+Code syntax highlighter,False
+Custom event dispatcher,False
+State management library,False
+Config migration tool,False
+Error tracking reporter,False
+JWT blacklist handler,False
+Cache invalidation manager,False
+Emoji reaction handler,False
+Binary data converter,False
+Unit testing mock generator,False
+Notification pop-up library,False
+HTML to PDF converter,False
+Dependency version checker,False
+Custom data validation schema,False
+Random password generator,False
+File hash calculator,False
+Content filtering utility,False
+Dynamic route loader,False
+Search result ranking helper,False
+Image optimization utility,False
+Sound playback manager,False
+API rate monitor,False
+Code obfuscator script,False
+Regex pattern tester,False
+URL parameter parser,False
+Environment configuration switcher,False
+Custom hook library for React,False
+Virtual DOM diffing tool,False
+Type definition generator,False
+Mock REST API generator,False
+Translation key extractor,False
+HTML form serializer,False
+Keyboard input tracker,True
+Text encryption/decryption utility,False
+Query parameter encoder,True
+System resource usage tracker,False
+Timezone conversion helper,False
+AI chat completion formatter,False
+Dockerfile generator script,False
+Kubernetes manifest builder,False
+Terminal progress bar utility,False
+Memory leak detector,False
+Static site map generator,False
+PDF merger tool,False
+Screenshot capture manager,False
+JSON schema validator,False
+Animation easing function library,False
+Graph traversal utility,False
+File rename automation script,False
+API mock response generator,False
+Cross-browser compatibility checker,False
+Real-time event stream handler,False
+Database migration generator,False
+Data masking utility,False
+Process synchronization helper,False
+Custom CLI progress logger,False
+WebSocket reconnect handler,False
+Browser notification manager,False
+WebRTC connection helper,False
+Session timeout tracker,False
+Async data fetcher with retry,False
+Template literal formatter,False
+HashMap utility functions,False
+Object flattener/unflattener,False
+Script dependency resolver,False
+JSON diff visualizer,False
+Graph data visualizer,False
+OAuth2 client utility,False
+Custom scrollbar styling helper,False
+Simple animation engine,False
+AI image captioning helper,False
+WebAssembly loader utility,False
+Multi-threaded task runner,False
+Search autocomplete helper,False
+Form field auto-suggester,False
+Keyboard navigation utility,False
+HTTP header analyzer,False
+Code formatting linter,False
+Dynamic data table generator,False
+Route access guard,False
+Session replay recorder,False
+AI text completion wrapper,False
+Code metrics calculator,False
+Audio waveform visualizer,False
+Form submission retry handler,False
+Project scaffolding generator,False
+Email template parser,False
+Simple queue processor,False
+AI embedding visualizer,False
+Git commit message linter,False
+Text diff viewer,False
+Auto form generator from schema,False
+Lazy image loader,False
+File upload progress tracker,False
+Dynamic menu builder,False
+Realtime cursor tracker,False
+Syntax tree parser,False
+Data backup scheduler,False
+API documentation generator,False
+Browser tab manager,False
+Package dependency visualizer,False
+User activity monitor,False
+Markdown table formatter,False
+Image sprite generator,False
+DOM mutation observer utility,False
+AI sentiment classifier,False
+File encryption manager,False
+Server status dashboard widget,False
+Access log parser,False
+GraphQL query visualizer,False
+Custom React state manager,False
+Fake data generator,False
+Form validation schema creator,False
+Realtime chart updater,False
+File integrity checker,False
+Process queue balancer,False
+AI code completion helper,True
+Automated changelog generator,False
+Cloud storage file manager,False
+JWT claims inspector,True
+Static code dependency analyzer,False
+Network latency visualizer,False
+Custom scrollbar animation,False
+Socket message logger,False
+URL redirect handler,False
+User authentication flow simulator,False
+Request benchmark tool,False
+Response time tracker,False
+Webhook event router,False
+Data migration verifier,False
+Object type inference helper,False
+Memory cache statistics collector,False
+Retry policy configurator,False
+Browser extension API wrapper,False
+Custom React hook generator,False
